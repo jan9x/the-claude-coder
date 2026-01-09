@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# newsletter data
+data/newsletter.csv
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
